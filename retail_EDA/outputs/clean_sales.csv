@@ -1,0 +1,21 @@
+Transaction_ID,Date,Product,Category,Units_Sold,Unit_Price,Discount,Region,Total_Sale
+ST-000001,2025-07-01,Rice 1kg,grocery,1,95.04,0.1,west,85.536
+ST-000002,2025-07-02,Laptop,electronics,2,48.24,0.05,east,91.656
+ST-000003,2025-07-02,Mixer Grinder,home,10,162.72,0.0,north,1627.2
+ST-000004,2025-07-04,Coffee 250g,grocery,2,80.73,0.05,south,153.387
+ST-000005,2025-07-04,Jacket,apparel,5,130.23,0.05,west,618.5925
+ST-000006,2025-07-06,Laptop,electronics,5,139.18,0.0,west,695.9000000000001
+ST-000007,2025-07-04,Yoga Mat,sports,4,137.06,0.0,east,548.24
+ST-000008,2025-07-02,Headphones,electronics,5,151.59,0.0,west,757.95
+ST-000009,2025-07-05,Jacket,apparel,1,119.26,0.2,east,95.40800000000002
+ST-000010,2025-07-04,Vacuum Cleaner,home,10,56.93,0.1,north,512.37
+ST-000011,2025-07-02,Dumbbells 5kg,sports,7,142.19,0.0,south,995.3299999999999
+ST-000012,2025-07-04,Laptop,electronics,9,112.13,0.15,east,857.7945
+ST-000013,2025-07-07,Desk Lamp,home,8,128.46,0.0,west,1027.68
+ST-000014,2025-07-06,Smartphone,electronics,7,189.05,0.0,north,1323.3500000000001
+ST-000015,2025-07-04,Laptop,electronics,5,139.42,0.15,north,592.5349999999999
+ST-000016,2025-07-03,Cookware Set,home,7,94.66,0.05,east,629.4889999999999
+ST-000017,2025-07-06,Football,sports,5,155.3,0.05,east,737.675
+ST-000018,2025-07-07,Laptop,electronics,1,181.21,0.15,south,154.0285
+ST-000019,2025-07-03,Laptop,electronics,6,92.21,0.2,north,442.608
+ST-000020,2025-07-07,Mixer Grinder,home,9,145.41,0.15,east,1112.3865
